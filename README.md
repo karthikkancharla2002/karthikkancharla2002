@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Karthik Kancharla,  I am currently pursuing my B.Tech in Computer Science and Engineering at Indian Institute of Technology, Dharwad.
+
+You can find below 
+
 <!--
 **karthikkancharla2002/karthikkancharla2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
