@@ -1,6 +1,6 @@
 ### Hi there, I'm Karthik Kancharla 👋
 
-I am a passionate and driven Master's student in Computer Science, dedicated to continuous learning and innovation. With a solid academic foundation and practical experience in software development, data science, machine learning, and AI, I thrive on solving complex problems and turning fresh ideas into impactful solutions. I aim to combine creativity with technical expertise to drive meaningful change in the tech world. As a collaborative team player with strong communication skills, I am always excited to explore new ideas and contribute to groundbreaking projects. 
+  I am a passionate and driven Master's student in Computer Science, dedicated to continuous learning and innovation. With a solid academic foundation and practical experience in software development, data science, machine learning, and AI, I thrive on solving complex problems and turning fresh ideas into impactful solutions. I aim to combine creativity with technical expertise to drive meaningful change in the tech world. As a collaborative team player with strong communication skills, I am always excited to explore new ideas and contribute to groundbreaking projects. 
 
 Let’s connect and see how we can shape the future of technology together!
 
