@@ -14,7 +14,7 @@
 
 - **LinkedIn 💼:** [linkedin.com/in/karthik-kancharla](https://linkedin.com/in/karthik-kancharla)
 - **GitHub 🖥️:** [github.com/karthikkancharla2002](https://github.com/karthikkancharla2002)
-- **Portfolio 🌟:** [karthikkancharla2002.github.io/portfolio](https://karthikkancharla2002.github.io/portfolio)
+- **Portfolio 🌟:** [karthikkancharla2002.github.io/portfolio](https://karthikkancharla2002.github.io)
 - **Email 📧:** karthikkancharla501@gmail.com
 
 🚀 Let's shape the future of technology together! Feel free to reach out.
